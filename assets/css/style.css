@@ -6,6 +6,10 @@ body {
     box-sizing: border-box;
 }
 
+h1 {
+    color: #4aaaa5;
+}
+
 #masthead {
     color: #ffffff;
     background: #ffffff;
@@ -38,11 +42,10 @@ footer {
     background: #666666;
     color: #ffffff;
     border-top: 8px solid #4aaaa5;
-    height: 50px;
+    height: 65px;
 }
 
 .btn {
     background: #4aaaa5;
     color: #ffffff;
-    margin-bottom: 10px;
 }
