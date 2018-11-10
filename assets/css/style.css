@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/light_wool.png");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+
+}
+
+footer {
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+}
