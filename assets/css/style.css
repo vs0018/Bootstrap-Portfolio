@@ -17,7 +17,17 @@ body {
     color: #ffffff;
 }
 
+#main-container {
+    background: #ffffff;
+}
+
 footer {
     background: #666666;
+    color: #ffffff;
     border-top: 8px solid #4aaaa5;
+}
+
+.btn {
+    background: #4aaaa5;
+    color: #ffffff;
 }
