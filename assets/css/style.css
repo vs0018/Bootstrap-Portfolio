@@ -12,22 +12,37 @@ body {
     border-bottom: 2px solid #cccccc;
 }
 
-#logo {
+#navcontainer {
+    max-width: 60%;
+}
+
+.inner-container {
     background: #4aaaa5;
+}
+
+#logo {
     color: #ffffff;
+}
+
+.pagesection {
+    padding-top: 70px;
+    padding-bottom: 70px
 }
 
 #main-container {
     background: #ffffff;
+    max-width: 60%;
 }
 
 footer {
     background: #666666;
     color: #ffffff;
     border-top: 8px solid #4aaaa5;
+    height: 50px;
 }
 
 .btn {
     background: #4aaaa5;
     color: #ffffff;
+    margin-bottom: 10px;
 }
