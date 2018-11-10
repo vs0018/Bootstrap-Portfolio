@@ -6,8 +6,15 @@ body {
     box-sizing: border-box;
 }
 
-.container {
+#masthead {
+    color: #ffffff;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
+}
 
+#logo {
+    background: #4aaaa5;
+    color: #ffffff;
 }
 
 footer {
